@@ -1,0 +1,12 @@
+{
+    "name": "my extension",
+    "version": "0.0.1",
+    "description": "cool extension look score",
+    "manifest_version": 3,
+    "author": "Abhishek Kumar",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "live cricket data"
+
+    }
+}
