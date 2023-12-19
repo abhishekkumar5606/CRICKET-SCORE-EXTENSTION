@@ -25,7 +25,7 @@ body
         display: inner-flex;
         margin: auto 10px;
         font-size: 22px;
-        color: blue;
+        color: rgb(255, 0, 0);
         border-radius: 6px;
         border: 1px solid lightblue;
         padding: 10px;
